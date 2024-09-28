@@ -1,3 +1,13 @@
+CraftTweaker-neoforge-1.21.1-21.0.3.jar
+DumplingsDelightRewrapped-1.21-1.1.1.jar
 easy_npc-neoforge-1.21.1-5.6.0.jar
+FarmersDelight-1.21-1.2.4.jar
+framework-neoforge-1.21.1-0.9.2.jar
+fruitsdelight-1.2.1+1.jar
 jei-1.21.1-neoforge-19.8.4.113.jar
+kubejs-neoforge-2101.7.0-build.171.jar
+moredelight-24.09.27-1.21-neoforge.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
+refurbished_furniture-neoforge-1.21.1-1.0.6.jar
+rhino-2101.2.5-build.54.jar
+SeedDelight-NeoForge-1.21-1.0.1.jar
