@@ -1,5 +1,8 @@
 architectury-13.0.6-neoforge.jar
 balm-neoforge-1.21.1-21.0.19.jar
+Clumps-neoforge-1.21.1-19.0.0.1.jar
+comforts-neoforge-9.0.2+1.21.1.jar
+Controlling-neoforge-1.21.1-19.0.3.jar
 CraftTweaker-neoforge-1.21.1-21.0.3.jar
 CreativeCore_NEOFORGE_v2.12.15_mc1.21.1.jar
 DumplingsDelightRewrapped-1.21-1.1.1.jar
@@ -13,12 +16,18 @@ ftb-library-neoforge-2101.1.3.jar
 ftb-quests-neoforge-2101.1.0.jar
 ftb-teams-neoforge-2101.1.0.jar
 ftb-xmod-compat-neoforge-21.1.0.jar
-jei-1.21.1-neoforge-19.8.4.113.jar
+jei-1.21.1-neoforge-19.19.0.220.jar
 kubejs-neoforge-2101.7.0-build.171.jar
 moredelight-24.09.27-1.21-neoforge.jar
 MouseTweaks-neoforge-mc1.21-2.26.1.jar
+NaturesCompass-1.21.1-3.0.3-neoforge.jar
+polymorph-neoforge-1.0.6+1.21.1.jar
 refurbished_furniture-neoforge-1.21.1-1.0.6.jar
 rhino-2101.2.5-build.54.jar
+Searchables-neoforge-1.21.1-1.0.1.jar
 SeedDelight-NeoForge-1.21-1.0.1.jar
+sophisticatedbackpacks-1.21-3.20.14.1105.jar
+sophisticatedcore-1.21-0.6.38.698.jar
+sophisticatedstorage-1.21-0.10.38.876.jar
 Spice of Life Onion_NEOFORGE_v1.4.3_mc1.21.1.jar
 waystones-neoforge-1.21.1-21.1.4.jar
