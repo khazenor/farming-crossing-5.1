@@ -100,6 +100,14 @@ scoreboard objectives add flora_compendium_vanilla_sapling_completion dummy {"tr
 scoreboard players set @p flora_compendium_vanilla_sapling_completion 0
 scoreboard objectives add flora_compendium_vanilla_flora_completion dummy {"translate":"questFunctions.vanillaFloraCompletion0"}
 scoreboard players set @p flora_compendium_vanilla_flora_completion 0
+scoreboard objectives add flora_compendium_maple_saplings dummy {"translate":"questFunctions.mapleSaplings0"}
+scoreboard players set @p flora_compendium_maple_saplings 0
+scoreboard objectives add flora_compendium_vanilla_varient_saplings dummy {"translate":"questFunctions.vanillaVarientSaplings0"}
+scoreboard players set @p flora_compendium_vanilla_varient_saplings 0
+scoreboard objectives add flora_compendium_special_saplings dummy {"translate":"questFunctions.specialSaplings0"}
+scoreboard players set @p flora_compendium_special_saplings 0
+scoreboard objectives add flora_compendium_other_modded_saplings dummy {"translate":"questFunctions.otherModdedSaplings0"}
+scoreboard players set @p flora_compendium_other_modded_saplings 0
 scoreboard objectives add mineral_museum dummy {"translate":"questFunctions.mineralMuseum"}
 scoreboard players set @p mineral_museum 0
 scoreboard objectives add mineral_museum_vanilla_blocks_completion dummy {"translate":"questFunctions.vanillaBlocksCompletion0"}

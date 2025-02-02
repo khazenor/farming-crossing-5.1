@@ -3806,6 +3806,28 @@
     "zh_cn": "木兰灌木完成",
     "zh_tw": "玉蘭灌木完成"
   },
+  "Maple Saplings": {
+    "de_de": "Ahorn-Setzlinge",
+    "es_mx": "Plantones de arce",
+    "fr_fr": "Jeunes érables",
+    "ja_jp": "カエデの苗木",
+    "ko_kr": "단풍나무 묘목",
+    "lo_la": "ต้นกล้าเมเปิ้ล",
+    "pt_br": "Mudas de bordo",
+    "zh_cn": "枫树苗",
+    "zh_tw": "楓樹苗"
+  },
+  "Maple Saplings (": {
+    "de_de": "Ahorn-Setzlinge (",
+    "es_mx": "Plantones de arce (",
+    "fr_fr": "Jeunes érables (",
+    "ja_jp": "カエデの苗木（",
+    "ko_kr": "단풍나무 묘목 (",
+    "lo_la": "ต้นกล้าเมเปิ้ล (",
+    "pt_br": "Mudas de bordo (",
+    "zh_cn": "枫树苗（",
+    "zh_tw": "楓樹苗（"
+  },
   "Maple Saplings Completion": {
     "de_de": "Fertigstellung der Ahornsetzlinge",
     "es_mx": "Finalización de plantones de arce",
@@ -4571,6 +4593,28 @@
     "zh_cn": "矿石完成（",
     "zh_tw": "礦石完井（"
   },
+  "Other Modded Saplings": {
+    "de_de": "Andere modifizierte Setzlinge",
+    "es_mx": "Otros árboles jóvenes modificados",
+    "fr_fr": "Autres jeunes arbres modifiés",
+    "ja_jp": "その他の改造苗木",
+    "ko_kr": "기타 개조된 어린 나무",
+    "lo_la": "ต้นกล้าดัดแปลงอื่น ๆ",
+    "pt_br": "Outras mudas modificadas",
+    "zh_cn": "其他改装树苗",
+    "zh_tw": "其他改裝樹苗"
+  },
+  "Other Modded Saplings (": {
+    "de_de": "Andere modifizierte Setzlinge (",
+    "es_mx": "Otros árboles jóvenes modificados (",
+    "fr_fr": "Autres jeunes arbres modifiés (",
+    "ja_jp": "その他の改造苗木（",
+    "ko_kr": "기타 개조된 어린 나무 (",
+    "lo_la": "ต้นกล้าดัดแปลงอื่นๆ (",
+    "pt_br": "Outras mudas modificadas (",
+    "zh_cn": "其他改装的树苗（",
+    "zh_tw": "其他改裝的樹苗（"
+  },
   "Otoro Nigiri": {
     "de_de": "Lobe Nigiri",
     "es_mx": "alabanza nigiri",
@@ -5203,6 +5247,28 @@
     "pt_br": "Conclusão Especial (",
     "zh_cn": "特别动物完成（",
     "zh_tw": "特別完成（"
+  },
+  "Special Saplings": {
+    "de_de": "Besondere Setzlinge",
+    "es_mx": "Plantones especiales",
+    "fr_fr": "Jeunes arbres spéciaux",
+    "ja_jp": "特別な苗木",
+    "ko_kr": "특별한 어린 나무",
+    "lo_la": "ต้นกล้าพิเศษ",
+    "pt_br": "Mudas Especiais",
+    "zh_cn": "特殊树苗",
+    "zh_tw": "特殊樹苗"
+  },
+  "Special Saplings (": {
+    "de_de": "Spezielle Setzlinge (",
+    "es_mx": "Plantones especiales (",
+    "fr_fr": "Jeunes arbres spéciaux (",
+    "ja_jp": "特別な苗木（",
+    "ko_kr": "특별한 어린 나무 (",
+    "lo_la": "ต้นกล้าพิเศษ (",
+    "pt_br": "Mudas Especiais (",
+    "zh_cn": "特殊树苗（",
+    "zh_tw": "特殊樹苗（"
   },
   "Speed": {
     "de_de": "Geschwindigkeit",
@@ -6290,6 +6356,28 @@
     "pt_br": "Conclusão de arbustos de baunilha",
     "zh_cn": "原版灌木完成",
     "zh_tw": "香草灌木完成"
+  },
+  "Vanilla Varient Saplings": {
+    "de_de": "Setzlinge der Vanille-Sorte",
+    "es_mx": "Plantones de la variedad vainilla",
+    "fr_fr": "Jeunes plants de la variété Vanille",
+    "ja_jp": "バニラ変種の苗木",
+    "ko_kr": "바닐라 변종 묘목",
+    "lo_la": "ต้นกล้าพันธุ์วานิลลา",
+    "pt_br": "Mudas de variedade de baunilha",
+    "zh_cn": "香草变种树苗",
+    "zh_tw": "香草變種樹苗"
+  },
+  "Vanilla Varient Saplings (": {
+    "de_de": "Setzlinge der Vanille-Sorte (",
+    "es_mx": "Plantones de la variante de vainilla (",
+    "fr_fr": "Jeunes plants de la variété Vanille (",
+    "ja_jp": "バニラ変種の苗木（",
+    "ko_kr": "바닐라 변종 묘목 (",
+    "lo_la": "ต้นกล้าพันธุ์วานิลลา (",
+    "pt_br": "Mudas de variedade de baunilha (",
+    "zh_cn": "香草变种树苗（",
+    "zh_tw": "香草變種樹苗（"
   },
   "Vegetarian Dumplings Completion": {
     "de_de": "Vegetarische Knödel Fertigstellung",

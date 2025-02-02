@@ -198,6 +198,7 @@
 	]
 	quest.231EAFD3EAAFC745.title: "Soups (Farmers Delight) Completion"
 	quest.237FE170DCEF0E64.title: "Collected 10 Unique Flora!"
+	quest.246A248A6770BEA8.title: "Special Saplings"
 	quest.255DA587CF6842A3.title: "Vegetarian Dumplings Completion"
 	quest.26595BA19D0E46C2.title: "Maple Shrubs Completion"
 	quest.28043A18FF6A55BC.title: "Plains Completion"
@@ -354,6 +355,7 @@
 	quest.4B015FCFA96CBD9C.title: "Cooked 2 Unique Dishes!"
 	quest.4B1F3644119B6957.title: "Collected 2 Unique Minerals!"
 	quest.4BC9E5611B9858A5.title: "Jungle Completion"
+	quest.4BD984E71333A1C6.title: "Maple Saplings"
 	quest.4E66BC35926F39E3.title: "Building Support VI"
 	quest.4EC2DC93EC0BED9F.title: "Saltwater Completion"
 	quest.4EF247F61012B8A2.title: "Cooked 35 Unique Dishes!"
@@ -517,6 +519,7 @@
 	quest.6E213508A3317069.title: "Using the Toaster"
 	quest.6EF2B75A55234776.title: "Building Support VIII"
 	quest.6F131E57A7D55E00.title: "Mushroom Completion"
+	quest.6F39C0B4FEBD6714.title: "Vanilla Varient Saplings"
 	quest.70559512CE4E83CE.quest_desc: [
 		"# Phone: Sam the Osprey #"
 		""
@@ -579,6 +582,7 @@
 	]
 	quest.77BE1CA2DD298BC9.title: "Construction Material Exchange"
 	quest.77CB8FF74562FE78.title: "Dinners (Farmers Delight) Completion"
+	quest.78433D8D3A918788.title: "Other Modded Saplings"
 	quest.7A3F2DCAB8F00888.title: "Locate Pamela"
 	quest.7A56756EC54FA48D.quest_desc: [
 		"After eating your first food you should get a 'Check Food Cravings' item.  This item is part of a modpack specific diet mechanic."
@@ -662,6 +666,7 @@
 	task.0EC3D3D91995E22A.title: "Free Task"
 	task.0EDE80B3E8C2ADEA.title: "Free Task"
 	task.0EEEFD0B6A745783.title: "Any #minecraft:logs"
+	task.0F054317D166EC28.title: "Free Task"
 	task.0F8AB710C770EC8F.title: "Spot a penguin"
 	task.10840709F5AAFFC3.title: "Free Task"
 	task.116143AA8AAF0BF4.title: "Spot a mantaray"
@@ -762,6 +767,7 @@
 	task.6325782B4E4EE509.title: "Spot a parrot"
 	task.637E14EE4BAED76D.title: "Free Task"
 	task.63CE211AADAAED88.title: "Any #forge:furniture_cuttable"
+	task.6401E6719AD3691E.title: "Free Task"
 	task.64559759D86E7DC7.title: "Free Task"
 	task.65C8AE6F0BFD8B89.title: "Spot a tadpole"
 	task.665E738D60A7422D.title: "Free Task"
@@ -777,6 +783,7 @@
 	task.6F6AC65BE4034A55.title: "Spot a koala"
 	task.6F77FA0440C7B651.title: "Free Task"
 	task.703884F06EB78950.title: "Free Task"
+	task.70B6FBABB74CE12B.title: "Free Task"
 	task.70CA920B4F17CD79.title: "Free Task"
 	task.716F76BD92F8DB7C.title: "Free Task"
 	task.71D387C36DDD8438.title: "Free Task"
@@ -788,6 +795,7 @@
 	task.7556D8923D066416.title: "Free Task"
 	task.755872FF0E064F6E.title: "Free Task"
 	task.7579593816DD0E46.title: "Spot a peacock"
+	task.76656C53D4EB7C6E.title: "Free Task"
 	task.76DCDFC2541CCFCD.title: "Spot a wolf"
 	task.7715F1C6553B6A78.title: "Free Task"
 	task.77375DCAFB745164.title: "Free Task"

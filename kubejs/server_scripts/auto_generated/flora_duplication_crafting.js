@@ -104,5 +104,137 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('minecraft:lily_pad', 8),
     ['minecraft:lily_pad', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:maple_sapling', 8),
+    ['biomeswevegone:maple_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:red_maple_sapling', 8),
+    ['biomeswevegone:red_maple_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:silver_maple_sapling', 8),
+    ['biomeswevegone:silver_maple_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:brown_oak_sapling', 8),
+    ['biomeswevegone:brown_oak_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:orange_oak_sapling', 8),
+    ['biomeswevegone:orange_oak_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:red_oak_sapling', 8),
+    ['biomeswevegone:red_oak_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:brown_birch_sapling', 8),
+    ['biomeswevegone:brown_birch_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:orange_birch_sapling', 8),
+    ['biomeswevegone:orange_birch_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:red_birch_sapling', 8),
+    ['biomeswevegone:red_birch_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:yellow_birch_sapling', 8),
+    ['biomeswevegone:yellow_birch_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:blue_spruce_sapling', 8),
+    ['biomeswevegone:blue_spruce_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:orange_spruce_sapling', 8),
+    ['biomeswevegone:orange_spruce_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:red_spruce_sapling', 8),
+    ['biomeswevegone:red_spruce_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:yellow_spruce_sapling', 8),
+    ['biomeswevegone:yellow_spruce_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:witch_hazel_sapling', 8),
+    ['biomeswevegone:witch_hazel_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:rainbow_eucalyptus_sapling', 8),
+    ['biomeswevegone:rainbow_eucalyptus_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:blue_enchanted_sapling', 8),
+    ['biomeswevegone:blue_enchanted_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:green_enchanted_sapling', 8),
+    ['biomeswevegone:green_enchanted_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:araucaria_sapling', 8),
+    ['biomeswevegone:araucaria_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:aspen_sapling', 8),
+    ['biomeswevegone:aspen_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:baobab_sapling', 8),
+    ['biomeswevegone:baobab_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:brown_zelkova_sapling', 8),
+    ['biomeswevegone:brown_zelkova_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:cika_sapling', 8),
+    ['biomeswevegone:cika_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:cypress_sapling', 8),
+    ['biomeswevegone:cypress_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:ebony_sapling', 8),
+    ['biomeswevegone:ebony_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:fir_sapling', 8),
+    ['biomeswevegone:fir_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:holly_sapling', 8),
+    ['biomeswevegone:holly_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:indigo_jacaranda_sapling', 8),
+    ['biomeswevegone:indigo_jacaranda_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:ironwood_sapling', 8),
+    ['biomeswevegone:ironwood_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:jacaranda_sapling', 8),
+    ['biomeswevegone:jacaranda_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:mahogany_sapling', 8),
+    ['biomeswevegone:mahogany_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:orchard_sapling', 8),
+    ['biomeswevegone:orchard_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:palm_sapling', 8),
+    ['biomeswevegone:palm_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:palo_verde_sapling', 8),
+    ['biomeswevegone:palo_verde_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:pine_sapling', 8),
+    ['biomeswevegone:pine_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:redwood_sapling', 8),
+    ['biomeswevegone:redwood_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:skyris_sapling', 8),
+    ['biomeswevegone:skyris_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:spirit_sapling', 8),
+    ['biomeswevegone:spirit_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:white_mangrove_sapling', 8),
+    ['biomeswevegone:white_mangrove_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:white_sakura_sapling', 8),
+    ['biomeswevegone:white_sakura_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:willow_sapling', 8),
+    ['biomeswevegone:willow_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:yellow_sakura_sapling', 8),
+    ['biomeswevegone:yellow_sakura_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:yucca_sapling', 8),
+    ['biomeswevegone:yucca_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:zelkova_sapling', 8),
+    ['biomeswevegone:zelkova_sapling', 'minecraft:bone_meal'])
 
 })

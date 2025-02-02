@@ -1,12 +1,13 @@
 ItemEvents.modifyTooltips(event => {
   event.add(
     [
-      'minecraft:stick', 
+      'mob_catcher:diamond_mob_catcher', 
       'compostbag:compost_bag', 
       'hangglider:hang_glider', 
       'packingtape:tape', 
       'waystones:warp_plate', 
       'waystones:waystone', 
+      'mob_catcher:netherite_mob_catcher', 
       'minecraft:minecart', 
       'minecraft:rail', 
       'minecraft:powered_rail', 
