@@ -3,46 +3,333 @@
 	loot_size: 1
 	order_index: 1
 	rewards: [
-		{ count: 4, item: { count: 1, id: "fruitsdelight:apple_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:bayberry_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:durian_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:fig_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:hawberry_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:kiwi_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:lychee_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:mango_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:mangosteen_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:orange_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:peach_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:pear_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:persimmon_sapling" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:pineapple_sapling" } }
-		{ count: 4, item: { count: 1, id: "dumplings_delight:chinese_cabbage_seeds" } }
-		{ count: 4, item: { count: 1, id: "dumplings_delight:eggplant_seeds" } }
-		{ count: 4, item: { count: 1, id: "dumplings_delight:fennel_seeds" } }
-		{ count: 4, item: { count: 1, id: "dumplings_delight:garlic_chive_seeds" } }
-		{ count: 4, item: { count: 1, id: "farmersdelight:cabbage_seeds" } }
-		{ count: 4, item: { count: 1, id: "farmersdelight:tomato_seeds" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:hamimelon_seeds" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:lemon_seeds" } }
-		{ count: 4, item: { count: 1, id: "minecraft:beetroot_seeds" } }
-		{ count: 4, item: { count: 1, id: "minecraft:melon_seeds" } }
-		{ count: 4, item: { count: 1, id: "minecraft:pumpkin_seeds" } }
-		{ count: 4, item: { count: 1, id: "minecraft:wheat_seeds" } }
-		{ count: 4, item: { count: 1, id: "dumplings_delight:garlic" } }
-		{ count: 4, item: { count: 1, id: "dumplings_delight:greenonion" } }
-		{ count: 4, item: { count: 1, id: "farmersdelight:rice" } }
-		{ count: 4, item: { count: 1, id: "minecraft:carrot" } }
-		{ count: 4, item: { count: 1, id: "minecraft:cocoa_beans" } }
-		{ count: 4, item: { count: 1, id: "minecraft:glow_berries" } }
-		{ count: 4, item: { count: 1, id: "minecraft:potato" } }
-		{ count: 4, item: { count: 1, id: "minecraft:sugar_cane" } }
-		{ count: 4, item: { count: 1, id: "minecraft:sweet_berries" } }
-		{ count: 4, item: { count: 1, id: "minecraft:brown_mushroom" } }
-		{ count: 4, item: { count: 1, id: "minecraft:red_mushroom" } }
-		{ count: 4, item: { count: 1, id: "farmersdelight:onion" } }
-		{ count: 4, item: { count: 1, id: "minecraft:chorus_fruit" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:blueberry" } }
-		{ count: 4, item: { count: 1, id: "fruitsdelight:cranberry" } }
+		{
+			count: 4
+			id: "443696DB10DA06D7"
+			item: {
+				count: 1
+				id: "fruitsdelight:apple_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "1CEFF02515AB5660"
+			item: {
+				count: 1
+				id: "fruitsdelight:bayberry_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "1D45FE373A5AB3AF"
+			item: {
+				count: 1
+				id: "fruitsdelight:durian_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "411CCA429DE86805"
+			item: {
+				count: 1
+				id: "fruitsdelight:fig_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "22C9FD3D31E55445"
+			item: {
+				count: 1
+				id: "fruitsdelight:hawberry_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "0906F6B875193A95"
+			item: {
+				count: 1
+				id: "fruitsdelight:kiwi_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "065314E388CC0E8E"
+			item: {
+				count: 1
+				id: "fruitsdelight:lychee_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "21ED76697D7D8CE7"
+			item: {
+				count: 1
+				id: "fruitsdelight:mango_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "113F011884DA9A85"
+			item: {
+				count: 1
+				id: "fruitsdelight:mangosteen_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "41493DDD1D0E3580"
+			item: {
+				count: 1
+				id: "fruitsdelight:orange_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "3D1D838EB7986949"
+			item: {
+				count: 1
+				id: "fruitsdelight:peach_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "60DD0E166320CF5D"
+			item: {
+				count: 1
+				id: "fruitsdelight:pear_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "2627E7ED8B49DAAD"
+			item: {
+				count: 1
+				id: "fruitsdelight:persimmon_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "718520ABAB9CA97C"
+			item: {
+				count: 1
+				id: "fruitsdelight:pineapple_sapling"
+			}
+		}
+		{
+			count: 4
+			id: "1D930FDB5AF3BF7B"
+			item: {
+				count: 1
+				id: "dumplings_delight:chinese_cabbage_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "25206FC9EF28D04D"
+			item: {
+				count: 1
+				id: "dumplings_delight:eggplant_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "06C4C2AC1101348C"
+			item: {
+				count: 1
+				id: "dumplings_delight:fennel_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "21ADB6C86D0CB1BD"
+			item: {
+				count: 1
+				id: "dumplings_delight:garlic_chive_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "173B4317895F5D77"
+			item: {
+				count: 1
+				id: "farmersdelight:cabbage_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "54C7805F94A11595"
+			item: {
+				count: 1
+				id: "farmersdelight:tomato_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "2732447F39129182"
+			item: {
+				count: 1
+				id: "fruitsdelight:hamimelon_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "395288B34B5F09FA"
+			item: {
+				count: 1
+				id: "fruitsdelight:lemon_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "336A7ED05948A724"
+			item: {
+				count: 1
+				id: "minecraft:beetroot_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "3004B2CD911D9683"
+			item: {
+				count: 1
+				id: "minecraft:melon_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "2D317EAC09644515"
+			item: {
+				count: 1
+				id: "minecraft:pumpkin_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "37908BF83D33C033"
+			item: {
+				count: 1
+				id: "minecraft:wheat_seeds"
+			}
+		}
+		{
+			count: 4
+			id: "62D9DE2A226502C9"
+			item: {
+				count: 1
+				id: "dumplings_delight:garlic"
+			}
+		}
+		{
+			count: 4
+			id: "37183CDD2AFADC50"
+			item: {
+				count: 1
+				id: "dumplings_delight:greenonion"
+			}
+		}
+		{
+			count: 4
+			id: "56CC5CB3B4E1523B"
+			item: {
+				count: 1
+				id: "farmersdelight:rice"
+			}
+		}
+		{
+			count: 4
+			id: "651B32167865204F"
+			item: {
+				count: 1
+				id: "minecraft:carrot"
+			}
+		}
+		{
+			count: 4
+			id: "19DD8B88C28D5942"
+			item: {
+				count: 1
+				id: "minecraft:cocoa_beans"
+			}
+		}
+		{
+			count: 4
+			id: "3D65F58FC49CDBA4"
+			item: {
+				count: 1
+				id: "minecraft:glow_berries"
+			}
+		}
+		{
+			count: 4
+			id: "5DA823B819739DF4"
+			item: {
+				count: 1
+				id: "minecraft:potato"
+			}
+		}
+		{
+			count: 4
+			id: "5852CE270C734801"
+			item: {
+				count: 1
+				id: "minecraft:sugar_cane"
+			}
+		}
+		{
+			count: 4
+			id: "09641D03D53D45DD"
+			item: {
+				count: 1
+				id: "minecraft:sweet_berries"
+			}
+		}
+		{
+			count: 4
+			id: "157A79F2658BA585"
+			item: {
+				count: 1
+				id: "minecraft:brown_mushroom"
+			}
+		}
+		{
+			count: 4
+			id: "2860B19993F430B5"
+			item: {
+				count: 1
+				id: "minecraft:red_mushroom"
+			}
+		}
+		{
+			count: 4
+			id: "041F6E158751FF39"
+			item: {
+				count: 1
+				id: "farmersdelight:onion"
+			}
+		}
+		{
+			count: 4
+			id: "4585A071E3F331B0"
+			item: {
+				count: 1
+				id: "minecraft:chorus_fruit"
+			}
+		}
+		{
+			count: 4
+			id: "2B750A2067C046A4"
+			item: {
+				count: 1
+				id: "fruitsdelight:blueberry"
+			}
+		}
+		{
+			count: 4
+			id: "6291518090D8B0E6"
+			item: {
+				count: 1
+				id: "fruitsdelight:cranberry"
+			}
+		}
 	]
 }

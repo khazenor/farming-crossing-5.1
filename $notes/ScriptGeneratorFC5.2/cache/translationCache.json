@@ -3784,17 +3784,6 @@
     "zh_cn": "木兰花完成",
     "zh_tw": "玉蘭花完成"
   },
-  "Magnolia Flowers Completion (": {
-    "de_de": "Fertigstellung der Magnolienblüten (",
-    "es_mx": "Finalización de flores de magnolia (",
-    "fr_fr": "Achèvement des fleurs de magnolia (",
-    "ja_jp": "マグノリアの花の完成（",
-    "ko_kr": "Magnolia꽃 완성 (",
-    "lo_la": "เสร็จสมบูรณ์ดอกแมกโนเลีย (",
-    "pt_br": "Conclusão das flores de magnólia (",
-    "zh_cn": "木兰花完成（",
-    "zh_tw": "玉蘭花完成（"
-  },
   "Magnolia Saplings Completion": {
     "de_de": "Fertigstellung der Magnoliensetzlinge",
     "es_mx": "Finalización de plantones de magnolia",
@@ -3805,17 +3794,6 @@
     "pt_br": "Conclusão das mudas de magnólia",
     "zh_cn": "木兰树苗完成",
     "zh_tw": "玉蘭花樹苗完成"
-  },
-  "Magnolia Saplings Completion (": {
-    "de_de": "Fertigstellung der Magnoliensetzlinge (",
-    "es_mx": "Finalización de plantones de magnolia (",
-    "fr_fr": "Achèvement des jeunes plants de magnolia (",
-    "ja_jp": "マグノリアの苗木の完成（",
-    "ko_kr": "목Magnolia나무 묘목 완성 (",
-    "lo_la": "ต้นกล้าแมกโนเลียเสร็จสมบูรณ์(",
-    "pt_br": "Conclusão das mudas de magnólia (",
-    "zh_cn": "木兰树苗完成（",
-    "zh_tw": "玉蘭花樹苗完成（"
   },
   "Magnolia Shrub Completion": {
     "de_de": "Fertigstellung des Magnolienstrauchs",
@@ -3828,17 +3806,6 @@
     "zh_cn": "木兰灌木完成",
     "zh_tw": "玉蘭灌木完成"
   },
-  "Magnolia Shrub Completion (": {
-    "de_de": "Fertigstellung des Magnolienstrauchs (",
-    "es_mx": "Terminación del arbusto de magnolia (",
-    "fr_fr": "Achèvement de l'arbuste Magnolia (",
-    "ja_jp": "マグノリアの低木完成（",
-    "ko_kr": "Magnolia 관목 완성 (",
-    "lo_la": "แมกโนเลีย พุ่มไม้สำเร็จรูป (",
-    "pt_br": "Conclusão do arbusto de magnólia (",
-    "zh_cn": "木兰灌木完成（",
-    "zh_tw": "玉蘭灌木完成（"
-  },
   "Maple Saplings Completion": {
     "de_de": "Fertigstellung der Ahornsetzlinge",
     "es_mx": "Finalización de plantones de arce",
@@ -3850,17 +3817,6 @@
     "zh_cn": "枫树树苗完成",
     "zh_tw": "楓樹苗完成"
   },
-  "Maple Saplings Completion (": {
-    "de_de": "Fertigstellung der Ahornsetzlinge (",
-    "es_mx": "Finalización de plantones de arce (",
-    "fr_fr": "Achèvement des jeunes arbres d'érable (",
-    "ja_jp": "カエデの苗木の完成（",
-    "ko_kr": "단풍나무 묘목 완성 (",
-    "lo_la": "ต้นกล้าเมเปิ้ลเสร็จสมบูรณ์(",
-    "pt_br": "Conclusão de mudas de bordo (",
-    "zh_cn": "枫树树苗完成（",
-    "zh_tw": "楓樹樹苗完成（"
-  },
   "Maple Shrubs Completion": {
     "de_de": "Fertigstellung der Ahornsträucher",
     "es_mx": "Terminación de arbustos de arce",
@@ -3871,17 +3827,6 @@
     "pt_br": "Conclusão de arbustos de bordo",
     "zh_cn": "枫树灌木完成",
     "zh_tw": "楓樹灌木完成"
-  },
-  "Maple Shrubs Completion (": {
-    "de_de": "Ahornsträucher Fertigstellung (",
-    "es_mx": "Terminación de arbustos de arce (",
-    "fr_fr": "Achèvement des arbustes d'érable (",
-    "ja_jp": "カエデの低木の完成（",
-    "ko_kr": "단풍나무 관목 완성 (",
-    "lo_la": "เสร็จสิ้นการปลูกต้นเมเปิ้ล (",
-    "pt_br": "Conclusão de arbustos de bordo (",
-    "zh_cn": "枫树灌木完成（",
-    "zh_tw": "楓樹灌木完成（"
   },
   "Medium": {
     "es_mx": "Medio",
@@ -4014,17 +3959,6 @@
     "zh_cn": "杂项花卉完成",
     "zh_tw": "雜項鮮花完成"
   },
-  "Misc Flowers Completion (": {
-    "de_de": "Verschiedene Blumen Vervollständigung (",
-    "es_mx": "Completar flores varias (",
-    "fr_fr": "Achèvement de fleurs diverses (",
-    "ja_jp": "その他花の完成（",
-    "ko_kr": "기타 꽃 완성 (",
-    "lo_la": "อื่นๆดอกไม้สำเร็จรูป(",
-    "pt_br": "Conclusão de flores diversas (",
-    "zh_cn": "杂项花卉完成（",
-    "zh_tw": "雜項鮮花完成（"
-  },
   "Misc Fruits Completion": {
     "de_de": "Vervollständigung verschiedener Früchte",
     "es_mx": "Completar frutas varias",
@@ -4080,17 +4014,6 @@
     "zh_cn": "杂项树苗完成",
     "zh_tw": "雜項樹苗完成"
   },
-  "Misc Saplings Completion (": {
-    "de_de": "Verschiedene Setzlinge fertigstellen (",
-    "es_mx": "Finalización de varios árboles jóvenes (",
-    "fr_fr": "Achèvement de divers plants (",
-    "ja_jp": "その他苗木の完成（",
-    "ko_kr": "기타 묘목 완성 (",
-    "lo_la": "ต้นกล้าต่างๆเสร็จสมบูรณ์(",
-    "pt_br": "Conclusão de mudas diversas (",
-    "zh_cn": "杂项树苗完成（",
-    "zh_tw": "雜項樹苗完成（"
-  },
   "Misc Shrubs Completion": {
     "de_de": "Vervollständigung verschiedener Sträucher",
     "es_mx": "Terminación de arbustos varios",
@@ -4101,17 +4024,6 @@
     "pt_br": "Conclusão de arbustos diversos",
     "zh_cn": "杂项灌木完成",
     "zh_tw": "雜項灌木完成"
-  },
-  "Misc Shrubs Completion (": {
-    "de_de": "Verschiedene Sträucher Vervollständigung (",
-    "es_mx": "Terminación de arbustos varios (",
-    "fr_fr": "Arbustes divers Achèvement (",
-    "ja_jp": "その他低木完成（",
-    "ko_kr": "기타 관목 완성 (",
-    "lo_la": "พุ่มไม้ต่างๆ เสร็จสมบูรณ์ (",
-    "pt_br": "Conclusão de arbustos diversos (",
-    "zh_cn": "杂项树苗完成（",
-    "zh_tw": "雜項灌木完成（"
   },
   "Mob Drops": {
     "de_de": "Mob-Drops",
@@ -4156,17 +4068,6 @@
     "pt_br": "Conclusão de flora diversa modificada",
     "zh_cn": "模组杂项植物完成",
     "zh_tw": "修改雜項植物區系完成"
-  },
-  "Modded Misc Flora Completion (": {
-    "de_de": "Modifizierte Sonstige Flora-Vervollständigung (",
-    "es_mx": "Finalización de flora miscelánea modificada (",
-    "fr_fr": "Achèvement de la flore diverse modifiée (",
-    "ja_jp": "改造された雑多な植物の完成（",
-    "ko_kr": "모드 기타 식물 완성 (",
-    "lo_la": "Modded อื่นๆ พืชสมบูรณ์ (",
-    "pt_br": "Conclusão de flora diversa modificada (",
-    "zh_cn": "模组杂项植物完成（",
-    "zh_tw": "修改後的雜項植物群完成（"
   },
   "Moded Foods Completion": {
     "de_de": "Modifizierte Lebensmittelvervollständigung",
@@ -4867,17 +4768,6 @@
     "zh_cn": "未至之地完成",
     "zh_tw": "未勘探完成地區"
   },
-  "Regions Unexplored Completion (": {
-    "de_de": "Regionen Unerforschte Fertigstellung (",
-    "es_mx": "Regiones inexploradas completadas (",
-    "fr_fr": "Régions inexplorées Achèvement (",
-    "ja_jp": "未踏の地の完成（",
-    "ko_kr": "미탐사 완료 지역 (",
-    "lo_la": "ภูมิภาคที่ยังไม่ได้สำรวจเสร็จสมบูรณ์ (",
-    "pt_br": "Regiões Inexploradas Conclusão (",
-    "zh_cn": "未至之地完成（",
-    "zh_tw": "未開發區域完成（"
-  },
   "Remember you can bundle miles ticket to booklets by shift right clicking the ticket in the air.": {
     "de_de": "Denken Sie daran, dass Sie Meilentickets zu Broschüren bündeln können, indem Sie mit der rechten Maustaste auf das Ticket klicken.",
     "es_mx": "Recuerda que puedes agrupar millas de tickets en libretas haciendo shift derecho y clic en el ticket en el aire.",
@@ -5247,17 +5137,6 @@
     "pt_br": "Conclusão de Snowbelle",
     "zh_cn": "雪铃山梅完成",
     "zh_tw": "雪貝爾完成"
-  },
-  "Snowbelle Completion (": {
-    "de_de": "Snowbelle-Vervollständigung (",
-    "es_mx": "Finalización de Snowbelle (",
-    "fr_fr": "Achèvement de Snowbelle (",
-    "ja_jp": "スノーベル完成（",
-    "ko_kr": "스노우벨 완성 (",
-    "lo_la": "ความสำเร็จของสโนว์เบลล์ (",
-    "pt_br": "Conclusão de Snowbelle (",
-    "zh_cn": "雪铃山梅完成（",
-    "zh_tw": "雪貝爾完成 ("
   },
   "Snowy Completion": {
     "de_de": "Schneebedeckte Fertigstellung",
@@ -6411,17 +6290,6 @@
     "pt_br": "Conclusão de arbustos de baunilha",
     "zh_cn": "原版灌木完成",
     "zh_tw": "香草灌木完成"
-  },
-  "Vanilla Shrubs Completion (": {
-    "de_de": "Vanille-Sträucher-Vervollständigung (",
-    "es_mx": "Terminación de arbustos de vainilla (",
-    "fr_fr": "Arbustes de vanille Achèvement (",
-    "ja_jp": "バニラシュラブ完成（",
-    "ko_kr": "바닐라 관목 완성 (",
-    "lo_la": "วานิลลาพุ่มไม้เสร็จสมบูรณ์ (",
-    "pt_br": "Conclusão de arbustos de baunilha (",
-    "zh_cn": "原版灌木完成（",
-    "zh_tw": "香草灌木完成（"
   },
   "Vegetarian Dumplings Completion": {
     "de_de": "Vegetarische Knödel Fertigstellung",

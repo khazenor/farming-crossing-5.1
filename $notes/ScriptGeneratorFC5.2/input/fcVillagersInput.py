@@ -20,7 +20,7 @@ villagers = [
     tradesKey: [
       {
         villagerItems: [
-          "mobcapturingtool:mob_capturing_tool",
+          "minecraft:stick",
           "compostbag:compost_bag",
           "hangglider:hang_glider"
         ],

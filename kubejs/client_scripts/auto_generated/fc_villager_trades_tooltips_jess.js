@@ -1,7 +1,7 @@
 ItemEvents.modifyTooltips(event => {
   event.add(
     [
-      'mobcapturingtool:mob_capturing_tool', 
+      'minecraft:stick', 
       'compostbag:compost_bag', 
       'hangglider:hang_glider', 
       'packingtape:tape', 
