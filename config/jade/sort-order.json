@@ -68,5 +68,8 @@
   "minecraft:villager_profession": null,
   "minecraft:waxed": null,
   "minecraft:zombie_villager": null,
+  "storagedrawers:main": null,
+  "toms_storage:inventory_config": null,
+  "toms_storage:inventory_connector": null,
   "waystones:waystone": null
 }
