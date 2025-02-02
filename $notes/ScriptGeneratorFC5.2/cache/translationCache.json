@@ -1518,6 +1518,25 @@
     "zh_cn": "金枪鱼赤身",
     "zh_tw": "赤海鮪魚"
   },
+  "Alliums": {
+    "de_de": "Allium",
+    "ja_jp": "アリウム",
+    "ko_kr": "알리움",
+    "lo_la": "ต้นหอม",
+    "pt_br": "Alhos",
+    "zh_cn": "葱属植物",
+    "zh_tw": "蔥屬植物"
+  },
+  "Alliums (": {
+    "de_de": "Allium (",
+    "es_mx": "Aliños (",
+    "ja_jp": "アリウム (",
+    "ko_kr": "알리움(Alliums)",
+    "lo_la": "กระเทียม (",
+    "pt_br": "Alhos (",
+    "zh_cn": "葱属植物（",
+    "zh_tw": "蔥屬植物（"
+  },
   "Alright, now that we have made the cheese, is as simple as combining it with the bread slices!": {
     "de_de": "Gut, nachdem wir nun den Käse gemacht haben, ist es ganz einfach, ihn mit den Brotscheiben zu vermischen!",
     "es_mx": "Bueno, ahora que ya hemos hecho el queso, ¡es tan sencillo como combinarlo con las rebanadas de pan!",
@@ -1550,6 +1569,28 @@
     "pt_br": "Além disso, agora que você é proficiente em cozinhar todos os tipos de pratos. Deixe-me mostrar como criar seu próprio menu de restaurante! Agora você pode ganhar uma grana enquanto também faz alguns reconhecimentos de pratos para mim!",
     "zh_cn": "此外，既然你已经精通烹饪各种菜肴。那就让我来教你如何设计你自己的餐厅菜单！现在你可以狠狠的赚钱，同时还可以帮我寻找菜肴！",
     "zh_tw": "而且，現在你已經熟練地烹飪各種菜餚了。  讓我展示如何設計您自己的餐廳菜單！現在你既可以賺大錢，又可以幫我搜尋菜品了！"
+  },
+  "Amaranths": {
+    "de_de": "Amaranten",
+    "es_mx": "Amarantos",
+    "fr_fr": "Amarantes",
+    "ja_jp": "アマランサス",
+    "ko_kr": "아마란스",
+    "lo_la": "ผักอมรันต์",
+    "pt_br": "Amarantos",
+    "zh_cn": "苋菜",
+    "zh_tw": "莧菜"
+  },
+  "Amaranths (": {
+    "de_de": "Amaranth (",
+    "es_mx": "Amarantos (",
+    "fr_fr": "Amarantes (",
+    "ja_jp": "アマランサス（",
+    "ko_kr": "아마란스(",
+    "lo_la": "ผักอมรันต์ (",
+    "pt_br": "Amarantos (",
+    "zh_cn": "苋菜（",
+    "zh_tw": "莧菜（"
   },
   "Amazing!  My mouth is watering just thinking about all of the tuna nigiris arranged on the plate! I bet if you find some customers in your area I bet they would pay handsomely for them!": {
     "de_de": "Unglaublich! Mir läuft schon das Wasser im Mund zusammen, wenn ich nur an all die Thunfisch-Nigiris denke, die auf dem Teller angerichtet sind! Ich wette, wenn Sie in Ihrer Gegend welche finden, würden sie bestimmt eine Menge dafür bezahlen!",
@@ -2673,6 +2714,28 @@
     "zh_cn": "客户订单",
     "zh_tw": "客戶訂單"
   },
+  "Daffodils": {
+    "de_de": "Narzissen",
+    "es_mx": "Narcisos",
+    "fr_fr": "Jonquilles",
+    "ja_jp": "水仙",
+    "ko_kr": "수선화",
+    "lo_la": "ดอกแดฟโฟดิล",
+    "pt_br": "Narcisos",
+    "zh_cn": "水仙花",
+    "zh_tw": "水仙花"
+  },
+  "Daffodils (": {
+    "de_de": "Narzissen (",
+    "es_mx": "Narcisos (",
+    "fr_fr": "Jonquilles (",
+    "ja_jp": "水仙（",
+    "ko_kr": "수선화(",
+    "lo_la": "ดอกแดฟโฟดิล (",
+    "pt_br": "Narcisos (",
+    "zh_cn": "水仙花（",
+    "zh_tw": "水仙花（"
+  },
   "Debug Item": {
     "de_de": "Debug-Element",
     "es_mx": "Elemento de depuración",
@@ -2958,6 +3021,28 @@
     "pt_br": "Conclusão do Flora Compendium!",
     "zh_cn": "植物大纲完成！",
     "zh_tw": "植物誌綱完成！"
+  },
+  "Flowering Flora": {
+    "de_de": "Blühende Flora",
+    "es_mx": "Flora floreciente",
+    "fr_fr": "Floraison de la flore",
+    "ja_jp": "花の咲く植物",
+    "ko_kr": "꽃이 피는 식물",
+    "lo_la": "ดอกไม้บาน",
+    "pt_br": "Flora florida",
+    "zh_cn": "开花植物",
+    "zh_tw": "開花植物"
+  },
+  "Flowering Flora (": {
+    "de_de": "Blühende Flora (",
+    "es_mx": "Flora floreciente (",
+    "fr_fr": "Floraison de la flore (",
+    "ja_jp": "花の咲く植物（",
+    "ko_kr": "꽃이 피는 식물 (",
+    "lo_la": "ดอกไม้บาน (",
+    "pt_br": "Flora florida (",
+    "zh_cn": "开花植物 (",
+    "zh_tw": "開花植物 ("
   },
   "Forest Completion": {
     "de_de": "Waldvervollständigung",
@@ -4593,6 +4678,28 @@
     "zh_cn": "矿石完成（",
     "zh_tw": "礦石完井（"
   },
+  "Other Misc Flowers": {
+    "de_de": "Andere Blumen",
+    "es_mx": "Otras flores variadas",
+    "fr_fr": "Autres fleurs diverses",
+    "ja_jp": "その他花",
+    "ko_kr": "기타 잡화",
+    "lo_la": "ดอกไม้อื่นๆ",
+    "pt_br": "Outras flores diversas",
+    "zh_cn": "其他杂花",
+    "zh_tw": "其他雜花"
+  },
+  "Other Misc Flowers (": {
+    "de_de": "Andere Blumen (",
+    "es_mx": "Otras flores variadas (",
+    "fr_fr": "Autres fleurs diverses (",
+    "ja_jp": "その他花（",
+    "ko_kr": "기타 잡화(",
+    "lo_la": "ดอกไม้อื่นๆ ที่หลากหลาย (",
+    "pt_br": "Outras flores diversas (",
+    "zh_cn": "其他杂花（",
+    "zh_tw": "其他雜花（"
+  },
   "Other Modded Saplings": {
     "de_de": "Andere modifizierte Setzlinge",
     "es_mx": "Otros árboles jóvenes modificados",
@@ -4943,6 +5050,46 @@
     "pt_br": "Cogumelo vermelho assado",
     "zh_cn": "烤制红色蘑菇",
     "zh_tw": "烤紅蘑菇"
+  },
+  "Roses": {
+    "de_de": "Rosen",
+    "es_mx": "Rosas",
+    "ja_jp": "バラ",
+    "ko_kr": "장미",
+    "lo_la": "ดอกกุหลาบ",
+    "pt_br": "Rosas",
+    "zh_cn": "玫瑰",
+    "zh_tw": "玫瑰"
+  },
+  "Roses (": {
+    "de_de": "Rosen (",
+    "es_mx": "Rosas (",
+    "ja_jp": "バラ（",
+    "ko_kr": "장미(",
+    "lo_la": "ดอกกุหลาบ (",
+    "pt_br": "Rosas (",
+    "zh_cn": "玫瑰 (",
+    "zh_tw": "玫瑰 ("
+  },
+  "Sages": {
+    "de_de": "Weise",
+    "es_mx": "Sabios",
+    "ja_jp": "賢者",
+    "ko_kr": "현자",
+    "lo_la": "ฤๅษี",
+    "pt_br": "Sábios",
+    "zh_cn": "圣人",
+    "zh_tw": "聖賢"
+  },
+  "Sages (": {
+    "de_de": "Weise (",
+    "es_mx": "Sabios (",
+    "ja_jp": "賢者（",
+    "ko_kr": "현자(",
+    "lo_la": "ฤๅษี (",
+    "pt_br": "Sábios (",
+    "zh_cn": "圣人（",
+    "zh_tw": "聖人（"
   },
   "Salads (Farmers Delight) Completion": {
     "de_de": "Salate (Farmers Delight) Fertigstellung",
@@ -6070,6 +6217,28 @@
     "pt_br": "Rastreando seus itens colecionáveis",
     "zh_cn": "查看收集品收集进度",
     "zh_tw": "追蹤您的收藏品"
+  },
+  "Tulips": {
+    "de_de": "Tulpen",
+    "es_mx": "Tulipanes",
+    "fr_fr": "Tulipes",
+    "ja_jp": "チューリップ",
+    "ko_kr": "튤립",
+    "lo_la": "ทิวลิป",
+    "pt_br": "Tulipas",
+    "zh_cn": "郁金香",
+    "zh_tw": "鬱金香"
+  },
+  "Tulips (": {
+    "de_de": "Tulpen (",
+    "es_mx": "Tulipanes (",
+    "fr_fr": "Tulipes (",
+    "ja_jp": "チューリップ（",
+    "ko_kr": "튤립(",
+    "lo_la": "ทิวลิป (",
+    "pt_br": "Tulipas (",
+    "zh_cn": "郁金香（",
+    "zh_tw": "鬱金香（"
   },
   "Tuna Fillets": {
     "de_de": "Thunfischfilets",

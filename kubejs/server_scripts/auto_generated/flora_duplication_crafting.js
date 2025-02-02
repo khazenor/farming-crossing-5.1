@@ -236,5 +236,203 @@ ServerEvents.recipes(event => {
   event.shapeless(
     Item.of('biomeswevegone:zelkova_sapling', 8),
     ['biomeswevegone:zelkova_sapling', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:allium_flower_bush', 8),
+    ['biomeswevegone:allium_flower_bush', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:pink_allium_flower_bush', 8),
+    ['biomeswevegone:pink_allium_flower_bush', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:pink_allium', 8),
+    ['biomeswevegone:pink_allium', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:tall_allium', 8),
+    ['biomeswevegone:tall_allium', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:tall_pink_allium', 8),
+    ['biomeswevegone:tall_pink_allium', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:tall_white_allium', 8),
+    ['biomeswevegone:tall_white_allium', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:white_allium_flower_bush', 8),
+    ['biomeswevegone:white_allium_flower_bush', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:white_allium', 8),
+    ['biomeswevegone:white_allium', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:amaranth', 8),
+    ['biomeswevegone:amaranth', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:cyan_amaranth', 8),
+    ['biomeswevegone:cyan_amaranth', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:magenta_amaranth', 8),
+    ['biomeswevegone:magenta_amaranth', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:orange_amaranth', 8),
+    ['biomeswevegone:orange_amaranth', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:purple_amaranth', 8),
+    ['biomeswevegone:purple_amaranth', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:black_rose', 8),
+    ['biomeswevegone:black_rose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:blue_rose_bush', 8),
+    ['biomeswevegone:blue_rose_bush', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:cyan_rose', 8),
+    ['biomeswevegone:cyan_rose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:osiria_rose', 8),
+    ['biomeswevegone:osiria_rose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:rose', 8),
+    ['biomeswevegone:rose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:winter_rose', 8),
+    ['biomeswevegone:winter_rose', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:cyan_tulip', 8),
+    ['biomeswevegone:cyan_tulip', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:green_tulip', 8),
+    ['biomeswevegone:green_tulip', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:magenta_tulip', 8),
+    ['biomeswevegone:magenta_tulip', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:purple_tulip', 8),
+    ['biomeswevegone:purple_tulip', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:yellow_tulip', 8),
+    ['biomeswevegone:yellow_tulip', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:daffodil', 8),
+    ['biomeswevegone:daffodil', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:pink_daffodil', 8),
+    ['biomeswevegone:pink_daffodil', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:yellow_daffodil', 8),
+    ['biomeswevegone:yellow_daffodil', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:blue_sage', 8),
+    ['biomeswevegone:blue_sage', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:purple_sage', 8),
+    ['biomeswevegone:purple_sage', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:white_sage', 8),
+    ['biomeswevegone:white_sage', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:flower_patch', 8),
+    ['biomeswevegone:flower_patch', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:flowering_barrel_cactus', 8),
+    ['biomeswevegone:flowering_barrel_cactus', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:flowering_indigo_jacaranda_bush', 8),
+    ['biomeswevegone:flowering_indigo_jacaranda_bush', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:flowering_jacaranda_bush', 8),
+    ['biomeswevegone:flowering_jacaranda_bush', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:flowering_tiny_lily_pads', 8),
+    ['biomeswevegone:flowering_tiny_lily_pads', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:alpine_bellflower', 8),
+    ['biomeswevegone:alpine_bellflower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:angelica', 8),
+    ['biomeswevegone:angelica', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:begonia', 8),
+    ['biomeswevegone:begonia', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:bistort', 8),
+    ['biomeswevegone:bistort', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:california_poppy', 8),
+    ['biomeswevegone:california_poppy', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:crocus', 8),
+    ['biomeswevegone:crocus', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:cyan_pitcher_plant', 8),
+    ['biomeswevegone:cyan_pitcher_plant', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:delphinium', 8),
+    ['biomeswevegone:delphinium', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:fairy_slipper', 8),
+    ['biomeswevegone:fairy_slipper', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:foxglove', 8),
+    ['biomeswevegone:foxglove', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:guzmania', 8),
+    ['biomeswevegone:guzmania', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:incan_lily', 8),
+    ['biomeswevegone:incan_lily', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:iris', 8),
+    ['biomeswevegone:iris', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:japanese_orchid', 8),
+    ['biomeswevegone:japanese_orchid', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:kovan_flower', 8),
+    ['biomeswevegone:kovan_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:lazarus_bellflower', 8),
+    ['biomeswevegone:lazarus_bellflower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:lollipop_flower', 8),
+    ['biomeswevegone:lollipop_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:magenta_pitcher_plant', 8),
+    ['biomeswevegone:magenta_pitcher_plant', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:orange_daisy', 8),
+    ['biomeswevegone:orange_daisy', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:peach_leather_flower', 8),
+    ['biomeswevegone:peach_leather_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:pink_anemone', 8),
+    ['biomeswevegone:pink_anemone', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:protea_flower', 8),
+    ['biomeswevegone:protea_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:richea', 8),
+    ['biomeswevegone:richea', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:silver_vase_flower', 8),
+    ['biomeswevegone:silver_vase_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:snowdrops', 8),
+    ['biomeswevegone:snowdrops', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:violet_leather_flower', 8),
+    ['biomeswevegone:violet_leather_flower', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:white_anemone', 8),
+    ['biomeswevegone:white_anemone', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:white_sakura_petals', 8),
+    ['biomeswevegone:white_sakura_petals', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:winter_cyclamen', 8),
+    ['biomeswevegone:winter_cyclamen', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:winter_scilla', 8),
+    ['biomeswevegone:winter_scilla', 'minecraft:bone_meal'])
+  event.shapeless(
+    Item.of('biomeswevegone:yellow_sakura_petals', 8),
+    ['biomeswevegone:yellow_sakura_petals', 'minecraft:bone_meal'])
 
 })

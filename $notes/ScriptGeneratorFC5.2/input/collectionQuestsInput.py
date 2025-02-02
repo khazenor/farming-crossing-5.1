@@ -857,7 +857,7 @@ questlines = [
           "minecraft:lily_pad"
         ]
       },
-      {
+      { # Maple Saplings
         nameKey: 'Maple Saplings',
         iconKey: 'biomeswevegone:maple_sapling',
         dependencyIdKey: '0EABDA42EA87C46C',
@@ -867,7 +867,7 @@ questlines = [
           "biomeswevegone:silver_maple_sapling"
         ]
       },
-      {
+      { # Vanilla Varient
         nameKey: 'Vanilla Varient Saplings',
         iconKey: 'biomeswevegone:brown_oak_sapling',
         dependencyIdKey: '0EABDA42EA87C46C',
@@ -885,7 +885,7 @@ questlines = [
           "biomeswevegone:yellow_spruce_sapling"
         ]
       },
-      {
+      { # Special Saplings
         nameKey: 'Special Saplings',
         iconKey: 'biomeswevegone:witch_hazel_sapling',
         dependencyIdKey: '0EABDA42EA87C46C',
@@ -896,7 +896,7 @@ questlines = [
           "biomeswevegone:green_enchanted_sapling",
         ]
       },
-      {
+      { # Other Modded Saplings
         nameKey: 'Other Modded Saplings',
         iconKey: 'biomeswevegone:araucaria_sapling',
         dependencyIdKey: '0EABDA42EA87C46C',
@@ -927,6 +927,128 @@ questlines = [
           "biomeswevegone:yellow_sakura_sapling",
           "biomeswevegone:yucca_sapling",
           "biomeswevegone:zelkova_sapling"
+        ]
+      },
+      { # Alliums
+        nameKey: 'Alliums',
+        iconKey: 'biomeswevegone:pink_allium',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+					"biomeswevegone:allium_flower_bush",
+					"biomeswevegone:pink_allium_flower_bush",
+					"biomeswevegone:pink_allium",
+					"biomeswevegone:tall_allium",
+					"biomeswevegone:tall_pink_allium",
+					"biomeswevegone:tall_white_allium",
+					"biomeswevegone:white_allium_flower_bush",
+					"biomeswevegone:white_allium"
+        ]
+      },
+      { # Amaranths
+        nameKey: 'Amaranths',
+        iconKey: 'biomeswevegone:amaranth',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+					"biomeswevegone:amaranth",
+					"biomeswevegone:cyan_amaranth",
+					"biomeswevegone:magenta_amaranth",
+					"biomeswevegone:orange_amaranth",
+					"biomeswevegone:purple_amaranth"
+        ]
+      },
+      { # Roses
+        nameKey: 'Roses',
+        iconKey: 'biomeswevegone:rose',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+					"biomeswevegone:black_rose",
+					"biomeswevegone:blue_rose_bush",
+					"biomeswevegone:cyan_rose",
+					"biomeswevegone:osiria_rose",
+					"biomeswevegone:rose",
+					"biomeswevegone:winter_rose"
+        ]
+      },
+      { # Tulips
+        nameKey: 'Tulips',
+        iconKey: 'biomeswevegone:cyan_tulip',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+					"biomeswevegone:cyan_tulip",
+					"biomeswevegone:green_tulip",
+					"biomeswevegone:magenta_tulip",
+					"biomeswevegone:purple_tulip",
+					"biomeswevegone:yellow_tulip"
+        ]
+      },
+      { # Daffodils
+        nameKey: 'Daffodils',
+        iconKey: 'biomeswevegone:daffodil',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+					"biomeswevegone:daffodil",
+					"biomeswevegone:pink_daffodil",
+					"biomeswevegone:yellow_daffodil"
+        ]
+      },
+      { # Sages
+        nameKey: 'Sages',
+        iconKey: 'biomeswevegone:blue_sage',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+					"biomeswevegone:blue_sage",
+					"biomeswevegone:purple_sage",
+					"biomeswevegone:white_sage"
+        ]
+      },
+      { # Flowering Flora
+        nameKey: 'Flowering Flora',
+        iconKey: 'biomeswevegone:flower_patch',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+					"biomeswevegone:flower_patch",
+					"biomeswevegone:flowering_barrel_cactus",
+					"biomeswevegone:flowering_indigo_jacaranda_bush",
+					"biomeswevegone:flowering_jacaranda_bush",
+					"biomeswevegone:flowering_tiny_lily_pads"
+        ]
+      },
+      { # Other Misc Flowers
+        nameKey: 'Other Misc Flowers',
+        iconKey: 'biomeswevegone:alpine_bellflower',
+        dependencyIdKey: '0EABDA42EA87C46C',
+        tasksKey: [
+					"biomeswevegone:alpine_bellflower",
+					"biomeswevegone:angelica",
+					"biomeswevegone:begonia",
+					"biomeswevegone:bistort",
+					"biomeswevegone:california_poppy",
+					"biomeswevegone:crocus",
+					"biomeswevegone:cyan_pitcher_plant",
+					"biomeswevegone:delphinium",
+					"biomeswevegone:fairy_slipper",
+					"biomeswevegone:foxglove",
+					"biomeswevegone:guzmania",
+					"biomeswevegone:incan_lily",
+					"biomeswevegone:iris",
+					"biomeswevegone:japanese_orchid",
+					"biomeswevegone:kovan_flower",
+					"biomeswevegone:lazarus_bellflower",
+					"biomeswevegone:lollipop_flower",
+					"biomeswevegone:magenta_pitcher_plant",
+					"biomeswevegone:orange_daisy",
+					"biomeswevegone:peach_leather_flower",
+					"biomeswevegone:pink_anemone",
+					"biomeswevegone:protea_flower",
+					"biomeswevegone:richea",
+					"biomeswevegone:silver_vase_flower",
+					"biomeswevegone:snowdrops",
+					"biomeswevegone:violet_leather_flower",
+					"biomeswevegone:white_anemone",
+					"biomeswevegone:white_sakura_petals",
+					"biomeswevegone:winter_cyclamen",
+					"biomeswevegone:winter_scilla",
+					"biomeswevegone:yellow_sakura_petals"
         ]
       }
     ]
