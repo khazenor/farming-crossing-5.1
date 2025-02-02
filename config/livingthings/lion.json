@@ -1,5 +1,5 @@
 {
-	"canAttack": true,
+	"canAttack": false,
 	"health": 20.0,
 	"movementSpeed": 0.33,
 	"attackDamage": 5.0,
@@ -13,7 +13,10 @@
 			"biomes": [
 				"minecraft:savanna",
 				"minecraft:savanna_plateau",
-				"minecraft:windswept_savanna"
+				"minecraft:windswept_savanna",
+				"regions_unexplored:baobab_savanna",
+				"regions_unexplored:dry_bushland",
+				"regions_unexplored:steppe"
 			]
 		}
 	],

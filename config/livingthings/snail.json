@@ -9,13 +9,28 @@
 			"maxGroupSize": 5,
 			"biomes": [
 				"minecraft:plains",
+				"regions_unexplored:clover_plains",
 				"minecraft:sunflower_plains",
 				"minecraft:swamp",
 				"minecraft:forest",
 				"minecraft:birch_forest",
 				"minecraft:flower_forest",
 				"minecraft:river",
-				"minecraft:cherry_grove"
+				"minecraft:cherry_grove",
+				"regions_unexplored:sparse_rainforest",
+				"regions_unexplored:bamboo_forest",
+				"regions_unexplored:rainforest",
+				"regions_unexplored:deciduous_forest",
+				"regions_unexplored:cold_deciduous_forest",
+				"regions_unexplored:maple_forest",
+				"regions_unexplored:willow_forest",
+				"regions_unexplored:silver_birch_forest",
+				"regions_unexplored:eucalyptus_forest",
+				"regions_unexplored:autumnal_maple_forest",
+				"regions_unexplored:cold_river",
+				"regions_unexplored:muddy_river",
+				"regions_unexplored:tropical_river",
+				"regions_unexplored:bioshroom_caves"
 			]
 		},
 		{

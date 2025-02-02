@@ -9,7 +9,10 @@
 			"maxGroupSize": 8,
 			"biomes": [
 				"minecraft:jungle",
-				"minecraft:sparse_jungle"
+				"minecraft:sparse_jungle",
+				"regions_unexplored:eucalyptus_forest",
+				"regions_unexplored:rainforest",
+				"regions_unexplored:sparse_rainforest"
 			]
 		},
 		{
@@ -17,7 +20,8 @@
 			"minGroupSize": 3,
 			"maxGroupSize": 8,
 			"biomes": [
-				"minecraft:bamboo_jungle"
+				"minecraft:bamboo_jungle",
+				"regions_unexplored:bamboo_forest"
 			]
 		},
 		{
@@ -25,7 +29,10 @@
 			"minGroupSize": 3,
 			"maxGroupSize": 8,
 			"biomes": [
-				"minecraft:savanna_plateau"
+				"minecraft:savanna_plateau",
+				"regions_unexplored:baobab_savanna",
+				"regions_unexplored:dry_bushland",
+				"regions_unexplored:steppe"
 			]
 		}
 	]

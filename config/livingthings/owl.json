@@ -18,7 +18,17 @@
 				"minecraft:taiga",
 				"minecraft:old_growth_pine_taiga",
 				"minecraft:old_growth_spruce_taiga",
-				"minecraft:cherry_grove"
+				"minecraft:cherry_grove",
+				"regions_unexplored:sparse_rainforest",
+				"regions_unexplored:bamboo_forest",
+				"regions_unexplored:rainforest",
+				"regions_unexplored:deciduous_forest",
+				"regions_unexplored:cold_deciduous_forest",
+				"regions_unexplored:maple_forest",
+				"regions_unexplored:willow_forest",
+				"regions_unexplored:silver_birch_forest",
+				"regions_unexplored:eucalyptus_forest",
+				"regions_unexplored:autumnal_maple_forest"
 			]
 		}
 	],

@@ -1,5 +1,5 @@
 {
-	"canAttack": true,
+	"canAttack": false,
 	"health": 22.0,
 	"movementSpeed": 1.05,
 	"attackDamage": 6.0,
@@ -18,7 +18,9 @@
 				"minecraft:deep_cold_ocean",
 				"minecraft:warm_ocean",
 				"minecraft:lukewarm_ocean",
-				"minecraft:deep_lukewarm_ocean"
+				"minecraft:deep_lukewarm_ocean",
+				"regions_unexplored:rocky_reef",
+				"regions_unexplored:hyacinth_deeps"
 			]
 		}
 	]

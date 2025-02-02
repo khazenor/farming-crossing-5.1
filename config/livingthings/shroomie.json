@@ -8,7 +8,8 @@
 			"minGroupSize": 5,
 			"maxGroupSize": 7,
 			"biomes": [
-				"minecraft:mushroom_fields"
+				"minecraft:mushroom_fields",
+				"regions_unexplored:bioshroom_caves"
 			]
 		}
 	],

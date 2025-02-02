@@ -1,0 +1,130 @@
+{
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 60
+            },
+            "SETTINGS": {
+                "horizontalOffset": 60
+            }
+        }
+    },
+    "compasses.expandedstorage.impl.client.gui.SingleScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 61,
+                "top": 2
+            },
+            "SETTINGS": {
+                "horizontalOffset": 61
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "horizontalOffset": 61,
+                "top": 2
+            },
+            "SETTINGS": {
+                "horizontalOffset": 61
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.StoveScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 30
+            },
+            "SORT": {
+                "horizontalOffset": 30
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 30
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 30
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 60
+            },
+            "SETTINGS": {
+                "horizontalOffset": 60
+            }
+        }
+    },
+    "com.mrcrayfish.furniture.refurbished.client.gui.screen.ElectricityGeneratorScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "top": 48
+            },
+            "SORT": {
+                "horizontalOffset": -36,
+                "top": 15
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": -24,
+                "top": 26
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": -12,
+                "top": 37
+            },
+            "SETTINGS": {
+                "horizontalOffset": 60
+            }
+        }
+    },
+    "com.tom.storagemod.screen.StorageTerminalScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": -12
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -16
+            },
+            "SORT": {
+                "top": -16
+            },
+            "SORT_COLUMNS": {
+                "top": -16
+            },
+            "SORT_ROWS": {
+                "top": -16
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 62,
+                "top": 2
+            },
+            "SETTINGS": {
+                "horizontalOffset": 62
+            }
+        }
+    },
+    "net.blay09.mods.cookingforblockheads.client.gui.screen.KitchenScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": -20
+            },
+            "MOVE_TO_PLAYER": {
+                "top": -27
+            },
+            "SORT": {
+                "top": -27
+            },
+            "SORT_COLUMNS": {
+                "top": -27
+            },
+            "SORT_ROWS": {
+                "top": -27
+            },
+            "SHOW_EDITOR": {
+                "horizontalOffset": 60,
+                "top": 3
+            },
+            "SETTINGS": {
+                "horizontalOffset": 60
+            }
+        }
+    }
+}

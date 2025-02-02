@@ -1,0 +1,308 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "inviting_villagers"
+	group: ""
+	icon: {
+		id: "refurbished_furniture:computer"
+	}
+	id: "707B691BFCDD5C79"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			dependencies: ["04FE5360D916B710"]
+			hide: true
+			icon: {
+				id: "refurbished_furniture:computer"
+			}
+			id: "0370C67C8F11BCD8"
+			rewards: [{
+				command: "/function fc_villagers:jess"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:writable_book"
+				}
+				id: "654DA2161710AC7B"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6A57C2FC6A9F4F40"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["04FE5360D916B710"]
+			hide: true
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "518931FBD2A747A1"
+			rewards: [{
+				command: "/function fc_villagers:jess_highlight"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:spyglass"
+				}
+				id: "4614D30EDCC80FF9"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4B80A646D227A845"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["15A1BA25552738C6"]
+			hide: true
+			icon: {
+				id: "artifacts:umbrella"
+			}
+			id: "2B8730E0884A40E6"
+			rewards: [{
+				command: "/function fc_villagers:pamela"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:writable_book"
+				}
+				id: "4A9A8A10E64BC3CA"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4BCE1287DE8C4F56"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["15A1BA25552738C6"]
+			hide: true
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "7A3F2DCAB8F00888"
+			rewards: [{
+				command: "/function fc_villagers:pamela_highlight"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:spyglass"
+				}
+				id: "6E76EF985FDF6FF0"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "400421872BD911A4"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["566FA6BED129D084"]
+			hide: true
+			icon: {
+				id: "minecraft:dried_kelp_block"
+			}
+			id: "5EB813FF2BB20CA3"
+			rewards: [{
+				command: "/function fc_villagers:sam"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:writable_book"
+				}
+				id: "52A6603F32756A6E"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "4D1A63F18232FE93"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["566FA6BED129D084"]
+			hide: true
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "567066F676204F5D"
+			rewards: [{
+				command: "/function fc_villagers:sam_highlight"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:spyglass"
+				}
+				id: "0AE81B961BDBC7E3"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "389B6A15D7124C27"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 2.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["171BE0908097E33C"]
+			hide: true
+			icon: {
+				id: "minecraft:anvil"
+			}
+			id: "61C1C061C253CE59"
+			rewards: [{
+				command: "/function fc_villagers:ren"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:writable_book"
+				}
+				id: "77F60B7138332CDD"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "7BA936C44E7C5D30"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["57B4827320A2F865"]
+			hide: true
+			icon: {
+				components: {
+					"relics:data": {
+						abilities: {
+							abilities: {
+								discount: {
+									extender: {
+										cooldown: 0
+										cooldownCap: 0
+										ticking: 0b
+									}
+									lock: {
+										breaks: 5
+									}
+									points: 0
+									research: {
+										links: { }
+										researched: 0b
+									}
+									stats: {
+										multiplier: {
+											initialValue: 6.37816d
+										}
+									}
+								}
+							}
+						}
+						leveling: {
+							experience: 0
+							level: 0
+							luck: 0
+							points: 0
+						}
+					}
+				}
+				id: "artifacts:villager_hat"
+			}
+			id: "2B31BEB008963972"
+			rewards: [{
+				command: "/function fc_villagers:bernina"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:writable_book"
+				}
+				id: "604EB640210DDC04"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "6E1A5391BD067476"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["171BE0908097E33C"]
+			hide: true
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "222BC4256D1EE384"
+			rewards: [{
+				command: "/function fc_villagers:ren_highlight"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:spyglass"
+				}
+				id: "6BA920B766CD1336"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "304E5B89605D60CF"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 3.0d
+		}
+		{
+			can_repeat: true
+			dependencies: ["57B4827320A2F865"]
+			hide: true
+			icon: {
+				id: "minecraft:spyglass"
+			}
+			id: "68C4F54426B3B9C2"
+			rewards: [{
+				command: "/function fc_villagers:bernina_highlight"
+				elevate_perms: true
+				exclude_from_claim_all: true
+				icon: {
+					id: "minecraft:spyglass"
+				}
+				id: "489E95E1795DC01D"
+				silent: true
+				type: "command"
+			}]
+			tasks: [{
+				id: "0E7E12F1E2CCD02A"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: 4.0d
+		}
+	]
+}

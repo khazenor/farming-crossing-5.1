@@ -9,7 +9,10 @@
 			"maxGroupSize": 6,
 			"biomes": [
 				"minecraft:river",
-				"minecraft:swamp"
+				"minecraft:swamp",
+				"regions_unexplored:cold_river",
+				"regions_unexplored:muddy_river",
+				"regions_unexplored:tropical_river"
 			]
 		}
 	]

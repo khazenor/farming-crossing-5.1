@@ -13,7 +13,12 @@
 				"minecraft:river",
 				"minecraft:beach",
 				"minecraft:swamp",
-				"minecraft:mangrove_swamp"
+				"minecraft:mangrove_swamp",
+				"regions_unexplored:grassy_beach",
+				"regions_unexplored:gravel_beach",
+				"regions_unexplored:cold_river",
+				"regions_unexplored:muddy_river",
+				"regions_unexplored:tropical_river"
 			]
 		}
 	],

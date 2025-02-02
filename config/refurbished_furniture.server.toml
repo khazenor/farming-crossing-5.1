@@ -1,28 +1,28 @@
 # Toilet related properties
 [toilet]
+	# If enabled, when interacting with this block it will dispense free water into
+	# it's fluid tank, assuming the tank is empty or contains water but has not reached it's
+	# capacity.
+	# Valid values: true, false
+	dispenseWater = true
 	# The storage capacity of the fluid tank contained in this block. If you're using Forge,
 	# 1000 units represents the capacity of a bucket, while it's 81000 on Fabric. So if you
 	# want 3 buckets worth of storage, it will be 3000 (Forge) or 243000 (Fabric)
 	# Valid range: 1 to 9223372036854775807 (inclusive)
 	fluidCapacity = 1000
+
+# Kitchen Sink related properties
+[kitchenSink]
 	# If enabled, when interacting with this block it will dispense free water into
 	# it's fluid tank, assuming the tank is empty or contains water but has not reached it's
 	# capacity.
 	# Valid values: true, false
 	dispenseWater = true
-
-# Kitchen Sink related properties
-[kitchenSink]
 	# The storage capacity of the fluid tank contained in this block. If you're using Forge,
 	# 1000 units represents the capacity of a bucket, while it's 81000 on Fabric. So if you
 	# want 3 buckets worth of storage, it will be 3000 (Forge) or 243000 (Fabric)
 	# Valid range: 1 to 9223372036854775807 (inclusive)
 	fluidCapacity = 3000
-	# If enabled, when interacting with this block it will dispense free water into
-	# it's fluid tank, assuming the tank is empty or contains water but has not reached it's
-	# capacity.
-	# Valid values: true, false
-	dispenseWater = true
 
 # Electricity related properties
 [electricity]
@@ -52,17 +52,6 @@
 	# would consume almost 2 coal per in-game day.
 	# Valid range: 1 to 128 (inclusive)
 	fuelToPowerRatio = 16
-
-	# Cheats for electricity. Free power, etc.
-	[electricity.cheats]
-		# Makes all blocks that require electricity always be powered without them being
-		# connected to an Electricity Generator. Warning, some blocks may no longer work as
-		# expected. Use at your own risk of a downgraded experience.
-		# Valid values: true, false
-		everythingIsPowered = false
-		# Electricity Generators will now output free power, and stay on forever.
-		# Valid values: true, false
-		freeGeneratorPower = false
 
 # Trampoline related properties
 [trampoline]
@@ -115,29 +104,19 @@
 	# ]
 	# ^ Note: This is just an example. Write your list below.
 	bannedItems = []
-	# A list of dimensions you are allowed to place mailboxes. An empty list means that
-	# mailboxes can be placed in any dimension.
-	# An example of how the list is defined:
-	# allowedDimensions = [
-	#     "minecraft:overworld",
-	#     "minecraft:the_nether",
-	#     ...
-	# ]
-	# ^ Note: This is just an example. Write your list below.
-	allowedDimensions = []
 
 # Bath related properties
 [bath]
-	# The storage capacity of the fluid tank contained in this block. If you're using Forge,
-	# 1000 units represents the capacity of a bucket, while it's 81000 on Fabric. So if you
-	# want 3 buckets worth of storage, it will be 3000 (Forge) or 243000 (Fabric)
-	# Valid range: 1 to 9223372036854775807 (inclusive)
-	fluidCapacity = 10000
 	# If enabled, when interacting with this block it will dispense free water into
 	# it's fluid tank, assuming the tank is empty or contains water but has not reached it's
 	# capacity.
 	# Valid values: true, false
 	dispenseWater = true
+	# The storage capacity of the fluid tank contained in this block. If you're using Forge,
+	# 1000 units represents the capacity of a bucket, while it's 81000 on Fabric. So if you
+	# want 3 buckets worth of storage, it will be 3000 (Forge) or 243000 (Fabric)
+	# Valid range: 1 to 9223372036854775807 (inclusive)
+	fluidCapacity = 10000
 
 # Recycle Bin related properties
 [recycleBin]

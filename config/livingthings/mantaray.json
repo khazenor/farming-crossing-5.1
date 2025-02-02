@@ -17,7 +17,15 @@
 				"minecraft:warm_ocean",
 				"minecraft:lukewarm_ocean",
 				"minecraft:deep_lukewarm_ocean",
-				"minecraft:river"
+				"minecraft:river",
+				"regions_unexplored:cold_river",
+				"regions_unexplored:muddy_river",
+				"regions_unexplored:tropical_river",
+				"regions_unexplored:rocky_reef",
+				"regions_unexplored:hyacinth_deeps",
+				"regions_unexplored:cold_river",
+				"regions_unexplored:muddy_river",
+				"regions_unexplored:tropical_river"
 			]
 		}
 	],

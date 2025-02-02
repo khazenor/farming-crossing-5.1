@@ -11,7 +11,10 @@
 			"biomes": [
 				"minecraft:savanna",
 				"minecraft:savanna_plateau",
-				"minecraft:windswept_savanna"
+				"minecraft:windswept_savanna",
+				"regions_unexplored:baobab_savanna",
+				"regions_unexplored:dry_bushland",
+				"regions_unexplored:steppe"
 			]
 		},
 		{
@@ -21,7 +24,10 @@
 			"biomes": [
 				"minecraft:jungle",
 				"minecraft:windswept_savanna",
-				"minecraft:sparse_jungle"
+				"minecraft:sparse_jungle",
+				"regions_unexplored:baobab_savanna",
+				"regions_unexplored:dry_bushland",
+				"regions_unexplored:steppe"
 			]
 		},
 		{
@@ -29,7 +35,8 @@
 			"minGroupSize": 4,
 			"maxGroupSize": 7,
 			"biomes": [
-				"minecraft:bamboo_jungle"
+				"minecraft:bamboo_jungle",
+				"regions_unexplored:bamboo_forest"
 			]
 		}
 	]
