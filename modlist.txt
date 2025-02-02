@@ -34,6 +34,7 @@ Controlling-neoforge-1.21.1-19.0.4.jar
 convenientcurioscontainer-2.0.jar
 cookingforblockheads-neoforge-1.21.1-21.1.8.jar
 corail_woodcutter-neoforge-1.21.1-3.4.2.jar
+Corgilib-NeoForge-1.21.1-5.0.0.3.jar
 cosmeticarmorreworked-1.21.1-v1-neoforge.jar
 crafting_on_a_stick-1.21.0.1.jar
 CraftTweaker-neoforge-1.21.1-21.0.19.jar
@@ -82,6 +83,7 @@ ftb-quests-neoforge-2101.1.4.jar
 ftb-teams-neoforge-2101.1.2.jar
 ftb-xmod-compat-neoforge-21.1.2.jar
 fusion-1.2.3-neoforge-mc1.21.jar
+geckolib-neoforge-1.21.1-4.7.3.jar
 getittogetherdrops-neoforge-1.21-1.3.2.jar
 glassbreaker-2.0.0+1.21+neoforge.jar
 Glassential-renewed-neoforge-1.21.1-3.1.5.jar
@@ -127,6 +129,7 @@ mcw-trapdoors-1.1.4-mc1.21.1neoforge.jar
 mcw-windows-2.3.0-mc1.21.1neoforge.jar
 Measurements-neoforge-1.21-3.0.0.jar
 midnightcontrols-neoforge-1.10.0.jar
+MobCatcher-NeoForge-1.21.1-1.5.4.jar
 modernfix-neoforge-5.20.2+mc1.21.1.jar
 monolib-neoforge-1.21.1-2.0.0.jar
 moonlight-1.21-2.17.21-neoforge.jar
@@ -134,6 +137,8 @@ MouseTweaks-neoforge-mc1.21-2.26.1.jar
 multipiston-1.2.51-1.21.1-snapshot.jar
 NaturesCompass-1.21.1-3.0.3-neoforge.jar
 OctoLib-NEOFORGE-0.5.0.1.jar
+Oh-The-Biomes-Weve-Gone-NeoForge-2.3.4.jar
+Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.0.6.jar
 open-parties-and-claims-neoforge-1.21.1-0.23.7.jar
 PackingTape-1.21.1-0.15.5.jar
 pandalib-neoforge-0.4.2-1.21.jar
@@ -166,6 +171,7 @@ structureessentials-1.21.1-4.2.jar
 structurize-1.0.758-1.21.1-snapshot.jar
 supermartijn642configlib-1.1.8-neoforge-mc1.21.jar
 supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar
+TerraBlender-neoforge-1.21.1-4.1.0.8.jar
 tinycoal-neoforge-1.21.1-1.0.3.jar
 toms_storage-1.21-2.1.1.jar
 ToolBelt-1.21.1-2.2.6.jar

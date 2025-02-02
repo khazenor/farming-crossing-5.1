@@ -20,7 +20,7 @@ villagers = [
     tradesKey: [
       {
         villagerItems: [
-          "minecraft:stick",
+          "mob_catcher:diamond_mob_catcher",
           "compostbag:compost_bag",
           "hangglider:hang_glider"
         ],
@@ -35,7 +35,10 @@ villagers = [
         villagerNum: 2
       },
       {
-        villagerItems: ["waystones:waystone"],
+        villagerItems: [
+          "waystones:waystone",
+          "mob_catcher:netherite_mob_catcher"
+        ],
         playerNum: 32
       },
       {
