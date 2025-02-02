@@ -1,5 +1,6 @@
 # Mods Removed
 - Everything is copper
+- Diagonal Glass
 # Mods Replaced
 - Horizontal Glass Panes --> Horizontal Panes
 - Mob Capturing Tool --> Mob Catcher
