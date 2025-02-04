@@ -8,7 +8,7 @@
 	}
 	id: "7B1B91DB12AA1DF1"
 	images: [{
-		click: "https://github.com/khazenor/farming-crossing-5/wiki"
+		click: "https://github.com/khazenor/farming-crossing-5.1/wiki"
 		height: 1.0d
 		hover: ["Farming Crossing 5 Wiki"]
 		image: "minecraft:item/writable_book"
